@@ -5,10 +5,8 @@
 // D - 40 to 49, 
 // E - less 40.
 
-
 // Prompt the user to input student marks
 var marks = 55;
-
 
 marks = Number(marks);
 
