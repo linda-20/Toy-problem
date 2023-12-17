@@ -8,7 +8,7 @@
 // Above 130 km = Licence Suspened
 
 // promt user to enter the speed limit
-let speed = 100;
+let speed = 135;
 
 // Define the speed limit and the demerit point threshold
 let speedLimit = 70;
