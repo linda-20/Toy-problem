@@ -6,7 +6,7 @@
 // E - less 40.
 
 // Prompt the user to input student marks
-var marks = 55;
+var marks = 50;
 
 marks = Number(marks);
 
