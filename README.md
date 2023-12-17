@@ -15,8 +15,6 @@ This project is used to solve problems encountered when grading results, Measuri
 * License
 
 
-
-
 ## Requirements
 ```
 Laptop
