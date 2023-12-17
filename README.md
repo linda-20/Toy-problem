@@ -34,5 +34,5 @@ Vscode
 
 ## Authors Info
 
-* Email: lindaaron@gmail.com
+* Email: lindaaron40@gmail.com
 * Github: @linda-20
