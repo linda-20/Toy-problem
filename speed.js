@@ -6,3 +6,10 @@
 // 120 km = 10 pnts
 // 130 km = 12 pnts 
 // Above 130 km = Licence Suspened
+
+// promt user to enter the speed limit
+let speed = 100;
+
+// Define the speed limit and the demerit point threshold
+let speedLimit = 70;
+let demeritPointThreshold = 12;
