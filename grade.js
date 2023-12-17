@@ -29,3 +29,7 @@ if (isNaN(marks) || marks < 0 || marks > 100) {
   } else {
     grade = 'E';
   }
+
+  // Output the marks
+  console.log("The student's marks is:", grade);
+}
